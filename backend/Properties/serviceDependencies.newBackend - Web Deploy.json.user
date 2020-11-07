@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-11-01T07:21:24.0999153Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "V-tex"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "925f0fd5-eaca-4535-859a-6ba3ff52b740"
+    }
+  }
+}
